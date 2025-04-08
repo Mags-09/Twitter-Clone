@@ -17,6 +17,24 @@
   margin-bottom: 10px;
 }
 
+.tweet h1 {
+  font-style: bold;
+
+}
+
+/* .tweet p {
+
+} */
+
+.tweet h2 {
+  font-size: 5rem;
+
+}
+
+#likes {
+  color: #1DA1F2;
+}
+
 button {
   border: none;
   background: none;

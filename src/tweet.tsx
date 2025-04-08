@@ -32,7 +32,7 @@ const Tweet = ({ sender, message, timeStamp, startingLikes }) => {
           </button>
           <p id = "likes">{likes} Likes</p>
         </div>
-
+        
       </div>
     );
   };
